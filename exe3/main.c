@@ -1,5 +1,3 @@
-ex3
-
 #include <FreeRTOS.h>
 #include <task.h>
 #include <semphr.h>
